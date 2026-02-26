@@ -15,7 +15,8 @@ ProductCode: DS4Windows
 ReleaseDate: 2023-12-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/Ryochan7/DS4Windows/releases/download/v3.3.3/DS4Windows_installer_x64_v3.3.3.exe
-  InstallerSha256: 66816BC1D6E87EA949E642C1869672E035CF36F113F1FB73F5A32B90D7605C29
+  InstallerUrl: https://ds4-windows.com/download/ryochan7-ds4windows/?wpdmdl=1927
+  InstallerSha256: cf5619bcb51b82e4e1765276e9f67fb1e2d23dff968a653657acf35bafff8bf4
 ManifestType: installer
 ManifestVersion: 1.6.0
+
